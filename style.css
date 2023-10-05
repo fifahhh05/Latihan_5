@@ -1,0 +1,14 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+    background-color: antiquewhite;
+}
+
+#text {
+    background-color: blueviolet;
+}
+.title {
+    background-color: yellow;
+}
