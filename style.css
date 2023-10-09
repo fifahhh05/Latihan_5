@@ -1,14 +1,29 @@
-h1 {
-    color: black;
-    text-align: center;
-    font-size: 25px;
-    font-family: monospace;
-    background-color: antiquewhite;
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
 }
 
-#text {
-    background-color: blueviolet;
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
 }
-.title {
-    background-color: yellow;
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
 }
+
+.logo a {
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+    color: black;
+}
+
+.menu {
+    float: right;
+}
+
