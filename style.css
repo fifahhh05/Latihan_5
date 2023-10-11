@@ -243,6 +243,13 @@ table {
     object-fit: contain;
     border-radius: 0;
 }
+img{
+    width: 100%;S
+    border-radius: 20px;
+ }
+ .box{
+    padding: 10px;
+ } 
 .desk {
     font-size: 15px;
     padding-top: 0px;
@@ -257,13 +264,6 @@ table {
     margin-bottom: 0px;
     padding-left: 10px;
 }
- img{
-    width: 100%;S
-    border-radius: 20px;
- }
- .box{
-    padding: 10px;
- }
  .slide3 {
     display: flex;
     flex-direction: row;
