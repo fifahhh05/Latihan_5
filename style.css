@@ -215,9 +215,9 @@ table {
     float: left;
     position: relative;
     margin-left: 400px;
-    margin-top: 50px;
+    margin-top: 60px;
 }
-}
+
 .card-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
